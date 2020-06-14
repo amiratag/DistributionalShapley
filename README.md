@@ -25,7 +25,7 @@ To estimate an equitbale measure of value of data points coming from an underlyi
 ## Authors
 
 * **Amirata Ghorbani** - [Website](http://web.stanford.edu/~amiratag)
-* **Michael P. Kim** - [Website] (https://cs.stanford.edu/~mpkim/)
+* **Michael P. Kim** - [Website](https://cs.stanford.edu/~mpkim/)
 * **James Zou** - [Website](https://sites.google.com/site/jamesyzou/)
 
 ## License
