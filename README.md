@@ -1,7 +1,7 @@
 Data Shapley: Equitable Valuation of Data for Machine Learning
 =====================================
 
-Code for implementation of  ["Data Shapley: Equitable Valuation of Data for Machine Learning"](https://arxiv.org/pdf/1904.02868.pdf).
+Code for implementation of  ["Distributional Shapley: A Distributional Framework for Data Valuation"](https://arxiv.org/pdf/2002.12334.pdf).
 
 **Please cite the following work if you use this benchmark or the provided tools or implementations:**
 
