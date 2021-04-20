@@ -309,7 +309,7 @@ class DistShap(object):
                     self.vals_dist = np.mean(self.results['mem_tmc'], 0)
             if tmc_run:
                 if error(self.results['mem_tmc']) < err:
-                    dist_run = False
+                    tmc_run = False
                     print('Data Shapley has converged!')
                 else:
                     self._tmc_shap(
