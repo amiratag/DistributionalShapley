@@ -294,7 +294,7 @@ class DistShap(object):
                 np.save(os.path.join(self.directory, 'loo.npy'), self.loo_vals)
             print('LOO values calculated!')
         iters = 0
-        while True:
+        while dist_run or tmc_run:
             if dist_run:
                 if error(self.results['mem_dist']) < err:
                     dist_run = False
