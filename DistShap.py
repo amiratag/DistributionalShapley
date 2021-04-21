@@ -306,7 +306,7 @@ class DistShap(object):
                         sources=self.sources,
                         alpha=alpha
                     )
-                    self.vals_dist = np.mean(self.results['mem_tmc'], 0)
+                    self.vals_dist = np.mean(self.results['mem_dist'], 0)
             if tmc_run:
                 if error(self.results['mem_tmc']) < err:
                     tmc_run = False
